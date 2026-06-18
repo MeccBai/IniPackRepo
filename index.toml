@@ -1,3 +1,5 @@
+SchemaVersion = 1
+
 [[PackList]]
 Game = "mo"
 Index = ["mo.toml"]

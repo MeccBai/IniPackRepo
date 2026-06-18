@@ -1,6 +1,10 @@
+SchemaVersion = 1
+
 [[Packages]]
 Name="Amc基础包"
 Author="Amc白"
 Desc = "Amc 基础包，用于提供一些空超武，单位，武器等用于其他ini的继承"
 Version = 1
-Url = ""
+Url = "https://github.com/MeccBai/IniPackRepo/releases/download/1/AmcBase.zip"
+Sha256 = "sha256:624c4eb0b63ce437fd35630f3cfdd547bbb44178fdacba2820777525d7f7ebb3"
+MinVersion = "1.0.0"
