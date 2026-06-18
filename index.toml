@@ -1,5 +1,5 @@
 [[PackList]]
 Game = "mo"
-Index = "mo.toml"
+Index = ["mo.toml"]
 Name = "Mental Omega Pack List"
 Desc = "心灵终结ini仓库"
