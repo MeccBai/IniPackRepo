@@ -15,5 +15,5 @@ Author="Amc白"
 Desc = "Amc 工具包，提供：克隆工厂，矿石倍率，渗透单位建造等功能"
 Version = 1
 Url = "https://github.com/MeccBai/IniPackRepo/releases/latest/download/AmcTools.zip"
-Sha256 = "sha256:b4636374530fbf798e90996a4253ba99d28fbae7d91ea0780e49b95109b1412a"
+Sha256 = "sha256:AFCFDFA7EEF1FB73D72E7D4083077DB6C60E6FA5DA0A71F79EC23029511A1ED8"
 MinVersion = "1.0.0"
