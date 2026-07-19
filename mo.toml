@@ -6,7 +6,7 @@ Author="Amc白"
 Desc = "Amc 基础包，用于提供一些空超武，单位，武器等用于其他ini的继承"
 Version = 1
 Url = "https://github.com/MeccBai/IniPackRepo/releases/latest/download/AmcBase.zip"
-Sha256 = "sha256:2CD654ED6A40DE46C13BC5C3D92DB87DFA680450530A7FD3A9EA60DDD0A24B91"
+Sha256 = "sha256:2B3CF5FA046B736D04AD8A31322433DAF40EF73D57EF3D83ACE9171080DAD8A2"
 MinVersion = "1.0.0"
 
 [[Packages]]
@@ -15,5 +15,5 @@ Author="Amc白"
 Desc = "Amc 工具包，提供：克隆工厂，矿石倍率，渗透单位建造等功能"
 Version = 1
 Url = "https://github.com/MeccBai/IniPackRepo/releases/latest/download/AmcTools.zip"
-Sha256 = "sha256:B5B5BDD39E8163C059D67B7045921592B673037681F14D18063D4BB0F60ED24E"
+Sha256 = "sha256:FE9DF359B0EDF39DE7E2C9ADBA010505FD0ABFDF6A8DD0798202CF10723EA32E"
 MinVersion = "1.0.0"
